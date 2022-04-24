@@ -64,7 +64,7 @@ set lazyredraw
 " }}}
 
 " Plugins {{{
-call plug#begin('~/.vim/plugged')
+call plug#begin('~/.local/share/nvim/plugged')
 " PlugInstall PlugClean PlugUpdate
 
 " Dashboard
